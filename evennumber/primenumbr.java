@@ -1,4 +1,6 @@
-public class CheckPrime {
+package evennumber;
+
+public class primenumbr {
     public static void main(String[] args) {
         int number = 65;
         boolean isPrime = true;

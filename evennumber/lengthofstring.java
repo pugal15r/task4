@@ -1,4 +1,6 @@
-public class StringLength {
+package evennumber;
+
+public class lengthofstring {
     public static void main(String[] args) {
         String msg = "Guvi Geek";
         int length = msg.length();

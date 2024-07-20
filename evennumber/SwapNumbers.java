@@ -1,3 +1,5 @@
+package evennumber;
+
 import java.util.Scanner;
 
 public class SwapNumbers {
